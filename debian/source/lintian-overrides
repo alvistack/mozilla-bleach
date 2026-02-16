@@ -1,0 +1,5 @@
+python-bleach source: file-without-copyright-information
+python-bleach source: no-debian-changes
+python-bleach source: source-contains-prebuilt-windows-binary
+python-bleach source: source-is-missing
+python-bleach source: source-package-encodes-python-version
