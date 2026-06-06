@@ -1,0 +1,4 @@
+python3-bleach: copyright-without-copyright-notice
+python3-bleach: initial-upload-closes-no-bugs
+python3-bleach: no-manual-page
+python3-bleach: zero-byte-file-in-doc-directory
